@@ -1,0 +1,8 @@
+Configurações de identificação do usuário 
+git config --global user.name "Fernando"
+git config --global user.email "fernando.b.spinelli@gmail.com"
+
+git init 
+
+git remote add entregas https://github.com/fbspinelli/entrega_17-04-2022.git
+
